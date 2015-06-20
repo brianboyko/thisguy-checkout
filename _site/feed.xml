@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Send Brian Boyko to Coding Bootcamp</title>
+    <description>The crowdfunding campaign for Brian to head to coding bootcamp to become a professional coder, fight against institutional corruption, and eventually pay the favor forward to the next generation.   
+</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 20 Jun 2015 01:36:02 -0600</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 01:36:02 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Responsive</title>
+        <description>&lt;p&gt;I tried to get my site up on Heroku - that didn’t quite work out so I figured I’d work on something else for a while. I’ve tried my best to make the site responsive - meaning that it works on all devices. I’m sure I messed something up, but at least things &lt;em&gt;seem&lt;/em&gt; to be working okay.  For now.&lt;/p&gt;
+
+&lt;p&gt;Now back to Heroku. And on Windows - it’s a pain.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jun 2015 18:39:00 -0600</pubDate>
+        <link>http://localhost:4000//responsive-design/2015/06/19/Responsive.html</link>
+        <guid isPermaLink="true">http://localhost:4000//responsive-design/2015/06/19/Responsive.html</guid>
+        
+        
+        <category>responsive-design</category>
+        
+      </item>
+    
+      <item>
+        <title>Moving to Heroku</title>
+        <description>&lt;p&gt;I’m still working on getting the payment processing to work.  As it is, I’ll likely need to use some form of Javascript. Or Ruby. Or Java.  Or something – the point is, I can’t use GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;The tool that seems to be best for this job is Heroku, which is, so far as I can tell, platform-as-a-service.  You can also use Jekyll with it, so I won’t have to start from scratch.  That’s good.&lt;/p&gt;
+
+&lt;p&gt;The problem is, I’m not quite sure how to use Heroku. Which means googling, IRCing, plraying, and a whole lot of trial and error.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’m going to be attending a prep course from MakerSquare. It’s $750, should help me get up to speed a little, and I can apply that to my tuition. Yes, I know I don’t have a working crowdfunding page up yet, but this might be something I can pull off on my own or with the help of close friends and family.&lt;/p&gt;
+
+&lt;p&gt;What’s frustrating is that I’ve been trying to teach myself Javascript first. Which means if I’m going to make any sense out of the ruby stuff, I’m going to have to switch gears pretty quickly.&lt;/p&gt;
+
+&lt;p&gt;And I didn’t even think about this, but I’m going to need a way to direct people to a Thank You page as well as set up some sort of automated e-mailer that allows me to send thank yous to people’s emails. This isn’t only polite but it’s also kind of expected to make sure the payment went through.&lt;/p&gt;
+
+&lt;p&gt;Finally, I’m going to have to change my code up to be responsive.  It’s kinda cool that you can set your font to be a certain percentage of the view window, but I need to find a way to have it fall back so that it’s no smaller than 12px.  That’s a problem for another day however.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Update: 8:21 pm:&lt;/p&gt;
+
+&lt;p&gt;Well, Heroku isn’t working for me on Windows, so this might be one of those things I need to run on a Vagrant box or a virtualmachine.  Obviously life would be easier for me if I had a Mac, but previously I needed Windows for the power it contained for video editing.  A Mac virtual machine would make me a happy camper, but that’s a grey area of legality, and I would &lt;em&gt;never&lt;/em&gt; do &lt;em&gt;anything&lt;/em&gt; that even &lt;em&gt;hints&lt;/em&gt; at breaking Apple’s oppressive copyright law.  (Also, it didn’t work.)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jun 2015 13:14:25 -0600</pubDate>
+        <link>http://localhost:4000//jekyll/update/2015/06/19/Moving-to-Heroku.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2015/06/19/Moving-to-Heroku.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>The end of the beginning</title>
+        <description>&lt;p&gt;As I’m writing this, I’m still in the process of coding this page.  I intend this blog to provide regular updates not only while the campaign runs but also while I attend code camp.&lt;/p&gt;
+
+&lt;p&gt;Right now, I’m doing okay, but I’m struggling.  Most of what I’ve learned to get this site up and running came from the Mayday.US team - while this site is nowhere near that complex, most of the base technologies are there.&lt;/p&gt;
+
+&lt;p&gt;Hosting? I’m on &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt; - just like Mayday.&lt;/p&gt;
+
+&lt;p&gt;Payment processing? &lt;a href=&quot;https://stripe.com/&quot;&gt;Stripe&lt;/a&gt;. Just like Mayday.&lt;/p&gt;
+
+&lt;p&gt;Site design?  Well, I’ve been using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.  Jekyll’s a – I don’t know what you’d call it.  HTML preprocessor?  Site builder? Half the times I know what I’m talking about but I don’t know the words that tell you what I’m talking about.  The other half I may know the words, but have no idea what they mean.  Because of that, it’s difficult for me to teach myself.&lt;/p&gt;
+
+&lt;p&gt;There’s a whole lot out there for a person who is able to teach themselves - a process known as “Google &amp;amp; Hack.”  The problem with the Google and Hack method is that if you don’t know what you’re looking for is &lt;em&gt;called&lt;/em&gt;, you can’t google it.&lt;/p&gt;
+
+&lt;p&gt;Already I’m learning some new tricks - &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt; is brilliant, and that’s something I didn’t have a whole lot of chance to play around with before. (Mayday primarily used static &lt;a href=&quot;http://www.w3.org/Style/CSS/Overview.en.html&quot;&gt;CSS&lt;/a&gt; files.)&lt;/p&gt;
+
+&lt;p&gt;The trickiest bit, of course, seems to be integration with Stripe.  Stripe Checkout works okay, but that’s primarily for single transactions of a single type. I’m going to have to delve into the javascript a bit in order to create a truly dynamic site.  Hmm, maybe there’s some old Mayday code I can reuse - though that was running on Google App Engine.&lt;/p&gt;
+
+&lt;p&gt;It also means that I’m going to have to put &lt;a href=&quot;http://brianboyko.github.io/shuffler&quot;&gt;Shuffler&lt;/a&gt; on hold while I develop this site.  Shuffler is a cool program that I hope will show people what I’m capable of doing in Javascript, but the problem is that I’ve reached an “I’m stuck” point.  I think I need to clear my head and go back to it. Plus I want to get this crowdfunding up as soon as possible - the sooner I get this page done, the sooner I can join a cohort of students.&lt;/p&gt;
+
+&lt;p&gt;For all I know, this is a longshot.  But at least it’s worth a try.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jun 2015 10:26:25 -0600</pubDate>
+        <link>http://localhost:4000//jekyll/update/2015/06/19/the-end-of-the-beginning.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2015/06/19/the-end-of-the-beginning.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
